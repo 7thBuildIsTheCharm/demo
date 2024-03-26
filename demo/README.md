@@ -15,3 +15,6 @@ Testing:
  - Fill in all fields of Player when testing the get methods
  - Add no_content case for both apis
  - Add controller test (when more robust)
+
+Deployment:
+ - add Dockerfile
